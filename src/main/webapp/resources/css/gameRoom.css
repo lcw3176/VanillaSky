@@ -1,0 +1,82 @@
+.aside {
+	display: inline-block;
+	width: 15%;
+	margin: 5px;
+	vertical-align: top;
+}
+
+#button-list{
+	display:none;
+}
+
+.content {
+	margin-top: 20px;
+}
+
+.user {
+	padding: 10px;
+	background-color: darkslategray;
+	height: 100px;
+	text-align: left;
+	border: gray 2px solid;
+	border-radius: 10px;
+	color: white;
+}
+
+.user h5 {
+	font-size: 17px;
+}
+
+.user h6 {
+	font-size: 14px;
+}
+
+.user * {
+	background-color: transparent;
+}
+
+.canvas {
+	background-color: ghostwhite;
+	border: gray 1px solid;
+	border-radius: 20px;
+	padding: 0;
+	margin: auto;
+	display: inline;
+	box-shadow: 3px 3px 5px gray;
+}
+
+.button-list {
+	background-color: transparent;
+	padding: 0;
+	margin: auto;
+	display: block;
+	width: 800px;
+	height: 50px;
+	text-align: center;
+}
+
+.input-text {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#input-bar {
+	width: 900px;
+	margin-right: 20px;
+	background-color: gainsboro;
+}
+
+.button {
+	border-radius: 10px;
+	background-color: white;
+	height: 50px;
+	width: 100px;
+	margin: 10px;
+}
+
+#startButton{
+	background-color: red;
+	color: white;
+}
