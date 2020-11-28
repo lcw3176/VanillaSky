@@ -25,16 +25,15 @@
 * 채팅에 "정답!"을 붙여서 정답 맞추기 도전 가능 Ex) 정답!포도
 * 정답을 맞춘 사람에게 방장 권한이 부여됨, 다시 게임 진행
 
-### [로그인, 게임 목록, 방 만들기]
-<div>
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518243-cbae7280-31d3-11eb-8053-4a74580c4ef4.png">
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518247-ccdf9f80-31d3-11eb-9cb0-8d40458bed8d.png">
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518249-cd783600-31d3-11eb-9fdd-384fa8473ac6.png">
-</div>
-
-### [그림 그리기, 정답 맞췄을 시, 게임 목록(진행중인 방)]
-<div>
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518251-cd783600-31d3-11eb-8b1f-03f0cd4dd476.png">
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518252-ce10cc80-31d3-11eb-8cf5-fe944937f8c5.png">
-  <img width="700" src="https://user-images.githubusercontent.com/59993347/100518253-cea96300-31d3-11eb-8674-924eb18da665.png">
-</div>
+### [로그인]  방 만들기]
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518243-cbae7280-31d3-11eb-8053-4a74580c4ef4.png">  
+### [게임 목록]
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518247-ccdf9f80-31d3-11eb-9cb0-8d40458bed8d.png">
+### [방 만들기]
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518249-cd783600-31d3-11eb-9fdd-384fa8473ac6.png">
+### [그림 그리기] 
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518251-cd783600-31d3-11eb-8b1f-03f0cd4dd476.png">
+### [정답 맞췄을 시]
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518252-ce10cc80-31d3-11eb-8cf5-fe944937f8c5.png">
+### [게임 목록(진행중인 방)]
+<img width="700" src="https://user-images.githubusercontent.com/59993347/100518253-cea96300-31d3-11eb-8674-924eb18da665.png">
