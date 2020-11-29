@@ -5,7 +5,7 @@
 ## 개발 환경, 사용 도구
 * Java, Tomcat
 * Spring, WebSocket
-* HTML, CSS, JavaScript, Bootstrap
+* JSP, CSS, JavaScript, Bootstrap
 * Redis DB
 
 ## 구현 기능
